@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include "test.h"
 
 int main(){
-	printf("hello git world.\n");
+	show_name_guodegang();
+	show_name_yuqian();
 	return 0;
 }
